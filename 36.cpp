@@ -8,7 +8,6 @@ bool che(int n,vector<int> v){
     return true;
 }
 int get(int n, vector<int> v) {
-
     if(che(n,v))
     return 0;
     map<int, int> b;
